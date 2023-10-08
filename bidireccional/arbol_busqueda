@@ -1,0 +1,80 @@
+digraph {
+	inicio_0 [label=inicio_0]
+	inicio_0 [label=inicio_0]
+	abajo_2 [label=abajo_2]
+	inicio_0 -> abajo_2
+	izquierda_3 [label=izquierda_3]
+	inicio_0 -> izquierda_3
+	derecha_4 [label=derecha_4]
+	inicio_0 -> derecha_4
+	arriba_5 [label=arriba_5]
+	inicio_0 -> arriba_5
+	abajo_6 [label=abajo_6]
+	inicio_0 -> abajo_6
+	izquierda_7 [label=izquierda_7]
+	inicio_0 -> izquierda_7
+	derecha_8 [label=derecha_8]
+	inicio_0 -> derecha_8
+	abajo_2 [label=abajo_2]
+	arriba_5 [label=arriba_5]
+	abajo_10 [label=abajo_10]
+	abajo_2 -> abajo_10
+	izquierda_11 [label=izquierda_11]
+	abajo_2 -> izquierda_11
+	derecha_12 [label=derecha_12]
+	abajo_2 -> derecha_12
+	arriba_13 [label=arriba_13]
+	arriba_5 -> arriba_13
+	izquierda_15 [label=izquierda_15]
+	arriba_5 -> izquierda_15
+	derecha_16 [label=derecha_16]
+	arriba_5 -> derecha_16
+	izquierda_3 [label=izquierda_3]
+	abajo_6 [label=abajo_6]
+	abajo_18 [label=abajo_18]
+	izquierda_3 -> abajo_18
+	abajo_22 [label=abajo_22]
+	abajo_6 -> abajo_22
+	izquierda_23 [label=izquierda_23]
+	abajo_6 -> izquierda_23
+	derecha_24 [label=derecha_24]
+	abajo_6 -> derecha_24
+	derecha_4 [label=derecha_4]
+	izquierda_7 [label=izquierda_7]
+	abajo_26 [label=abajo_26]
+	derecha_4 -> abajo_26
+	derecha_28 [label=derecha_28]
+	derecha_4 -> derecha_28
+	arriba_29 [label=arriba_29]
+	izquierda_7 -> arriba_29
+	abajo_30 [label=abajo_30]
+	izquierda_7 -> abajo_30
+	izquierda_31 [label=izquierda_31]
+	izquierda_7 -> izquierda_31
+	abajo_10 [label=abajo_10]
+	derecha_8 [label=derecha_8]
+	abajo_34 [label=abajo_34]
+	abajo_10 -> abajo_34
+	izquierda_35 [label=izquierda_35]
+	abajo_10 -> izquierda_35
+	derecha_36 [label=derecha_36]
+	abajo_10 -> derecha_36
+	arriba_37 [label=arriba_37]
+	derecha_8 -> arriba_37
+	abajo_38 [label=abajo_38]
+	derecha_8 -> abajo_38
+	izquierda_11 [label=izquierda_11]
+	arriba_13 [label=arriba_13]
+	arriba_41 [label=arriba_41]
+	izquierda_11 -> arriba_41
+	abajo_42 [label=abajo_42]
+	izquierda_11 -> abajo_42
+	izquierda_47 [label=izquierda_47]
+	arriba_13 -> izquierda_47
+	derecha_48 [label=derecha_48]
+	arriba_13 -> derecha_48
+	derecha_12 [label=derecha_12]
+	izquierda_15 [label=izquierda_15]
+	derecha_12 [label=derecha_12]
+	izquierda_15 [label=izquierda_15]
+}

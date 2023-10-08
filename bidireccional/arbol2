@@ -1,0 +1,132 @@
+digraph {
+	inicio_0 [label=inicio_0]
+	derecha_5 [label=derecha_5]
+	inicio_0 -> derecha_5
+	arriba_6 [label=arriba_6]
+	inicio_0 -> arriba_6
+	abajo_7 [label=abajo_7]
+	inicio_0 -> abajo_7
+	izquierda_8 [label=izquierda_8]
+	inicio_0 -> izquierda_8
+	derecha_5 [label=derecha_5]
+	abajo_13 [label=abajo_13]
+	derecha_5 -> abajo_13
+	arriba_16 [label=arriba_16]
+	derecha_5 -> arriba_16
+	arriba_6 [label=arriba_6]
+	izquierda_22 [label=izquierda_22]
+	arriba_6 -> izquierda_22
+	derecha_23 [label=derecha_23]
+	arriba_6 -> derecha_23
+	arriba_24 [label=arriba_24]
+	arriba_6 -> arriba_24
+	abajo_7 [label=abajo_7]
+	izquierda_30 [label=izquierda_30]
+	abajo_7 -> izquierda_30
+	abajo_31 [label=abajo_31]
+	abajo_7 -> abajo_31
+	derecha_32 [label=derecha_32]
+	abajo_7 -> derecha_32
+	izquierda_8 [label=izquierda_8]
+	abajo_38 [label=abajo_38]
+	izquierda_8 -> abajo_38
+	arriba_39 [label=arriba_39]
+	izquierda_8 -> arriba_39
+	izquierda_40 [label=izquierda_40]
+	izquierda_8 -> izquierda_40
+	abajo_13 [label=abajo_13]
+	abajo_46 [label=abajo_46]
+	abajo_13 -> abajo_46
+	izquierda_48 [label=izquierda_48]
+	abajo_13 -> izquierda_48
+	arriba_16 [label=arriba_16]
+	izquierda_53 [label=izquierda_53]
+	arriba_16 -> izquierda_53
+	arriba_55 [label=arriba_55]
+	arriba_16 -> arriba_55
+	izquierda_22 [label=izquierda_22]
+	izquierda_62 [label=izquierda_62]
+	izquierda_22 -> izquierda_62
+	arriba_63 [label=arriba_63]
+	izquierda_22 -> arriba_63
+	abajo_64 [label=abajo_64]
+	izquierda_22 -> abajo_64
+	derecha_23 [label=derecha_23]
+	arriba_70 [label=arriba_70]
+	derecha_23 -> arriba_70
+	abajo_71 [label=abajo_71]
+	derecha_23 -> abajo_71
+	arriba_24 [label=arriba_24]
+	izquierda_77 [label=izquierda_77]
+	arriba_24 -> izquierda_77
+	derecha_80 [label=derecha_80]
+	arriba_24 -> derecha_80
+	izquierda_30 [label=izquierda_30]
+	arriba_85 [label=arriba_85]
+	izquierda_30 -> arriba_85
+	izquierda_87 [label=izquierda_87]
+	izquierda_30 -> izquierda_87
+	abajo_88 [label=abajo_88]
+	izquierda_30 -> abajo_88
+	abajo_31 [label=abajo_31]
+	derecha_93 [label=derecha_93]
+	abajo_31 -> derecha_93
+	izquierda_96 [label=izquierda_96]
+	abajo_31 -> izquierda_96
+	derecha_32 [label=derecha_32]
+	arriba_101 [label=arriba_101]
+	derecha_32 -> arriba_101
+	abajo_104 [label=abajo_104]
+	derecha_32 -> abajo_104
+	abajo_38 [label=abajo_38]
+	derecha_109 [label=derecha_109]
+	abajo_38 -> derecha_109
+	abajo_111 [label=abajo_111]
+	abajo_38 -> abajo_111
+	izquierda_112 [label=izquierda_112]
+	abajo_38 -> izquierda_112
+	arriba_39 [label=arriba_39]
+	arriba_117 [label=arriba_117]
+	arriba_39 -> arriba_117
+	derecha_118 [label=derecha_118]
+	arriba_39 -> derecha_118
+	izquierda_120 [label=izquierda_120]
+	arriba_39 -> izquierda_120
+	izquierda_40 [label=izquierda_40]
+	arriba_126 [label=arriba_126]
+	izquierda_40 -> arriba_126
+	abajo_127 [label=abajo_127]
+	izquierda_40 -> abajo_127
+	izquierda_128 [label=izquierda_128]
+	izquierda_40 -> izquierda_128
+	abajo_46 [label=abajo_46]
+	izquierda_134 [label=izquierda_134]
+	abajo_46 -> izquierda_134
+	izquierda_48 [label=izquierda_48]
+	abajo_141 [label=abajo_141]
+	izquierda_48 -> abajo_141
+	izquierda_144 [label=izquierda_144]
+	izquierda_48 -> izquierda_144
+	izquierda_53 [label=izquierda_53]
+	izquierda_150 [label=izquierda_150]
+	izquierda_53 -> izquierda_150
+	arriba_152 [label=arriba_152]
+	izquierda_53 -> arriba_152
+	arriba_55 [label=arriba_55]
+	izquierda_158 [label=izquierda_158]
+	arriba_55 -> izquierda_158
+	izquierda_62 [label=izquierda_62]
+	izquierda_165 [label=izquierda_165]
+	izquierda_62 -> izquierda_165
+	abajo_166 [label=abajo_166]
+	izquierda_62 -> abajo_166
+	arriba_167 [label=arriba_167]
+	izquierda_62 -> arriba_167
+	arriba_63 [label=arriba_63]
+	izquierda_174 [label=izquierda_174]
+	arriba_63 -> izquierda_174
+	derecha_176 [label=derecha_176]
+	arriba_63 -> derecha_176
+	abajo_64 [label=abajo_64]
+	abajo_64 [label=abajo_64]
+}
